@@ -114,7 +114,7 @@ color: 343a40;
     color: 343a40;  
   }
 
- @media (max-width: 1200px) {
+ @media (max-width: 600px) {
    #compare_graph {
      width:100;
      height: 100;
@@ -148,9 +148,7 @@ color: 343a40;
       font-weight: 500;
       color: 343a40;
     }
-    .navbar {
-      navbar-expand-lg; 
-      navbar-dark; 
-      bg-dark;
+    .navbar-expand-lg {
+      background-color: brown !important;
     }
   }
